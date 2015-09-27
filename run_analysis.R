@@ -1,8 +1,3 @@
-# Data Prep:
-## Added two rows to the features.txt file.
-### 562 Training_Labels
-### 563 Subjects
-
 # Read in the files
 ## Reading the y_train and y_test files as character makes it easier later to convert
 ## the codes to descriptive text as specified by step 3 in the project instructions

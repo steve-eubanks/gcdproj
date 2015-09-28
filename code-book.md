@@ -43,13 +43,13 @@ deviation is recorded.
 ###Rows
 
 There is one row for each subject, named "Subject 1", "Subject 2", and so on through "Subject 30".
-Additionally, there is one row for each activity, named as follows:
-  "WALKING"
-  "WALKING_UPSTAIRS"
-  "WALKING_DOWNSTAIRS"
-  "SITTING"
-  "STANDING"          
-  "LAYING"
+Additionally, there is one row for each activity, named as follows:  
+  "WALKING"  
+  "WALKING_UPSTAIRS"  
+  "WALKING_DOWNSTAIRS"  
+  "SITTING"  
+  "STANDING"  
+  "LAYING"  
   
 
 ####Column Names

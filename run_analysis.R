@@ -119,3 +119,4 @@ temprownames[[1]] <- NULL
 rownames(finaldata) <- temprownames
 
 # This completes step 5 of the project instructions
+write.table(finaldata, file="finaldata.txt", row.name=FALSE )
